@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <ul>
+      <li class="active"><a href="https://Repl.it">Home</a></li>
+      <li><a href="https://repl.it/talk/challenge">Challenge</a></li>
+      <li><a href="https://repl.it/talk/x/x/7132">Rules</a></li>
+      <li><img src="https://compunic.me/Uploads/Images/posts/html.png"></li>
+
+    <script src="script.js"></script>
+  </body>
+</html>
